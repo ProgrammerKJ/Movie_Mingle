@@ -38,7 +38,7 @@ Ensure you have the following installed:
    Navigate To the backend directory
    
    ```bash
-   cd backend
+   cd ../Movie_Mingle_Api
 
    Install backend dependencies
 
@@ -68,7 +68,7 @@ Ensure you have the following installed:
 Navigate to the frontend directory:
 
 ```bash
-cd ../frontend
+cd ../Movie_Mingle_Client
 
 Install frontend dependencies:
 
